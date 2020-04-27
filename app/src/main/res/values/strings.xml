@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaintainApp</string>
+    <string name="invalid_model">Model Is required</string>
+    <string name="invalid_DateTime_empty">Date Time field cant be empty</string>
+    <string name="invalid_distance_empty">Distance field cant be empty.</string>
+    <string name="invalid_price_empty">Price field cant be empty.</string>
+    <string name="invalid_parts_empty">Parts field cant be empty.</string>
+    <string name="invalid_repairShop_empty">Repair shop field cant be left empty.</string>
+</resources>
